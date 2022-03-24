@@ -1,5 +1,4 @@
 ---
-layout: layouts/panels.njk
 title: Stone Plaque
 thumbnails:
     - img: '/img/anna1.jpg'
