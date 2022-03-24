@@ -4,7 +4,7 @@ layout: layouts/base.njk
 <h1 class="text-5xl p-8">{{  title  }}</h1>
 
 <div class="flex flex-row">
-{% for thumb in thumbnails %}
+{% for thumb in images %}
         <div class="flex-col">
 			<img class="w-64" src={{thumb.img}}>	
 			<p class="w-64 text-sm" >{{thumb.caption}}</p>

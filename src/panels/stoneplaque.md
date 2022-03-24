@@ -1,6 +1,6 @@
 ---
 title: Stone Plaque
-thumbnails:
+images:
     - img: '/img/anna1.jpg'
       caption: test
     - img: '/img/anna2.jpg'

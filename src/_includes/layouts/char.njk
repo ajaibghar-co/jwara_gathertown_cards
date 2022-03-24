@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+---
+<div class="w-full">
+<div class="border-4 rounded-lg p-6 mx-8 mt-8">
+<h1 class="text-xl italics text-bold pb-4">{{  greeting  }}</h1>
+<p class="max-w-prose">{{ content | safe }}</p>
+<div class="flex">
+    {% for q in images %}
+            <div class="flex flex-row p-3">
+                <img class="w-32" src={{q.img}}>	
+                {# <p class="w-64 text-sm" >{{thumb.caption}}</p> #}
+            </div>
+    {% endfor %}	
+</div>
+</div>
+
+<div class="px-4">
+    <img class="w-8" src={{charimg}}>
+    <p class="text-xs" >{{charname}}</p>
+</div>
+</div>

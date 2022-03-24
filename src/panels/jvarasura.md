@@ -1,6 +1,6 @@
 ---
 title: jvarasura
-thumbnails:
+images:
     - img: '/img/logo.svg'
       caption: test
 ---

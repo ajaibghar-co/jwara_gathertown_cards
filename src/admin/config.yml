@@ -25,3 +25,20 @@ collections:
         - { label: "panel-images", name: "img", widget: "image", required: false }
         - { label: "panel-images-caption", name: "caption", widget: "string", required: false }
         required: false
+  - label: "characters"
+    name: "characters"
+    folder: "src/characters"
+    create: true
+    fields:
+      - { label: "Character-img", name: "charimg", widget: "image" }
+      - { label: "Character name", name: "charname", widget: "string", required: false }
+      - { label: "Greeting", name: "greeting", widget: "string", required: false }
+      - { label: "Cardtitle", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "images"
+        name: "images"
+        widget: "list"
+        fields:
+        - { label: "quest-images", name: "img", widget: "image", required: false }
+        # - { label: "panel-images-caption", name: "caption", widget: "string", required: false }
+        required: false
