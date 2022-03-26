@@ -1,7 +1,7 @@
 ---
 charimg: /img/priest2.png
 charname: Priest
-greeting: welcome you seem new here.
+greeting: Welcome! You seem new here.
 title: priest
 images:
   - img: /img/shopkeeper.png

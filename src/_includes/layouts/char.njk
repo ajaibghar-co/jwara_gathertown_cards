@@ -2,18 +2,19 @@
 layout: layouts/base.njk
 ---
 <div class="w-full">
-    <div class="mt-10 flex place-content-center">
-        <div class="flex-col m-4">
-            <img class="w-20 mx-3" src={{charimg}}>
-            <p class="text-xs text-center p-3" >{{charname}}</p>
+    <div class="mt-10 flex flex-wrap md:place-content-center font-body">
+        <div class="flex-col md:m-4">
+            <img class="w-20 m-1 md:mx-3" src={{charimg}}>
+            <p class="text-xs text-center md:p-3" >{{charname}}</p>
         </div>
-        <div class="w-2/3">
-            <div class="speech-box backdrop-blur-sm bg-white/30 rounded-lg p-6 mt-4">
-                <h1 class="text-xl text-white italic text-bold pb-4">{{  greeting  }}</h1>
-                <p class="max-w-prose text-white ">{{ content | safe }}</p>
+        <div class="w-9/12 md:w-2/3">
+            <div class="speech-box backdrop-blur-sm bg-white md:bg-white/60 rounded-lg p-6 mt-4">
+                <h1 class="text-xl text-gray-600 italic font-bold pb-4">{{  greeting  }}</h1>
+                <p class="max-w-prose text-gray-600">{{ content | safe }}</p>
+                <div class="absolute w-0 h-0 border-t-[13px] border-t-transparent border-b-transparent border-b-[13px] border-r-[26px] border-r-white md:border-r-white/60 right-[76%] top-24 md:right-[100%] md:top-[50%] translate-y-[-50%]"></div>
             </div>
-            <div class="flex flex-col backdrop-blur-sm bg-white/30 rounded-lg mt-8 p-4 bg-opacity-50">
-                <p class="italic">quest finder</p>
+            <div class="flex flex-col backdrop-blur-sm bg-white md:bg-white/50 rounded-lg mt-8 p-4">
+                <p class="italic px-2 text-gray-600">Quest Finder</p>
                 <div class="flex flew-row">
                     {% for q in images %}
                             <div class="px-6">
