@@ -1,34 +1,33 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="w-full">
-    <div class="mt-10 flex flex-wrap md:place-content-center font-body">
-        <div class="flex-col md:m-4">
-            <img class="w-20 m-1 md:mx-3" src={{charimg}}>
-            <p class="text-xs text-center md:p-3" >{{charname}}</p>
-        </div>
-        <div class="w-9/12 md:w-2/3">
-            <div class="speech-box backdrop-blur-sm bg-white md:bg-white/60 rounded-lg p-6 mt-4">
-                <h1 class="text-xl text-gray-600 italic font-bold pb-4">{{  greeting  }}</h1>
-                <p class="max-w-prose text-gray-600">{{ content | safe }}</p>
-                <div class="absolute w-0 h-0 border-t-[13px] border-t-transparent border-b-transparent border-b-[13px] border-r-[26px] border-r-white md:border-r-white/60 right-[76%] top-24 md:right-[100%] md:top-[50%] translate-y-[-50%]"></div>
-            </div>
-            <div class="flex flex-col backdrop-blur-sm bg-white md:bg-white/50 rounded-lg mt-8 p-4">
-                <p class="italic px-2 text-gray-600">Quest Finder</p>
-                <div class="flex flew-row">
-                    {% for q in images %}
-                            <div class="px-6">
-                                <img class="w-8" src={{q.img}}>	
-                                {# <p class="w-64 text-sm" >{{thumb.caption}}</p> #}
-                            </div>
-                    {% endfor %}	
-                <div>
-            </div>
-        </div>
+<div class="flex p-2 mt-2 md:mx-10 md:mt-10">
+    <div class="char-block m-2">
+        <img class="w-56" src={{charimg}}>
+        <p class="text-sm text-center">{{charname}}</p>
     </div>
+    <div class="dialog-block m-4  relative">
+        <div class="bg-white rounded-md p-4 ">
+            <h1 class="font-bold font-body italic text-xl">{{  greeting  }}</h1><br>
+            <p class="font-body">{{ content | safe }}</p>
+            <div class="absolute w-0 h-0 border-t-[13px] border-t-transparent border-b-transparent border-b-[13px] border-r-[26px] border-r-white -left-6 top-12 translate-y-[-50%]"></div>
+        </div>
+
+        <div class="bg-white rounded-md p-2 mt-4">     
+            <p class="font-body italic font-thin px-4">Quest Finder</p>
+                        <div class="flex flex-row">
+                {% for q in images %}
+                            <img class="px-6" src={{q.img}}>	
+                            {# <p class="w-64 text-sm" >{{thumb.caption}}</p> #}
+                {% endfor %}	
+                        </div>
+        </div>  
+    </div>       
+ </div> 
+ 
+          
+   
 
 
     
-</div>
 
-</div>

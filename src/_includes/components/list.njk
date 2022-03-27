@@ -1,13 +1,21 @@
-<div class="max-w-prose 2xl:p-4 xl:p-4 lg:p-4 2xl:fixed 2xl:bottom-16 2xl:right-8 xl:fixed xl:bottom-16 xl:right-8 lg:fixed lg:bottom-16 lg:right-8 relative px-8 py-4">
-    <p class="text-bold font-mono italic">some thoughts and texts here</p>
-  {% for post in projlist %}
+<div class="p-8">
+    <h1 class="text-bold font-mono italic">list of panels here</h1>
+    
+  {% for panel in collections.panels %}
    <div class="">
-      <ul class="flex flex-row">
-        </li class="md:py-3">
-        <a class="font-mono lg:text-sm md:text-sm sm:text-sm" href="{{ post.url | url }}">{{ post.data.title }}</a>
-        </li>
-      </ul>
-    </div>
    
+        <a class="font-body underline lg:text-sm md:text-sm sm:text-sm" href="{{ panel.url | url }}">{{ panel.data.title }}</a>
+     
+    </div>
+  {% endfor %}
+
+  <h1 class="text-bold font-mono italic mt-8">list of characters here</h1>
+    
+  {% for ch in collections.characters %}
+   <div class="">
+      
+        <a class="font-body underline lg:text-sm md:text-sm sm:text-sm" href="{{ ch.url | url }}">{{ ch.data.charname }}</a>
+     
+    </div>
   {% endfor %}
 </div>
