@@ -4,6 +4,8 @@ backend:
 
 # These lines should *not* be indented
 media_folder: "src/img" # Media files will be stored in the repo under static/images/uploads
+config:
+      max_file_size: 512000
 public_folder: "/img" # The src attribute for uploaded media will begin with /images/uploads
 
 # Please run "npx netlify-cms-proxy-server" for local backend
