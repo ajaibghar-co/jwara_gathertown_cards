@@ -16,8 +16,8 @@ collections:
     folder: "src/panels"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Title", name: "title", widget: "string" , required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       - label: "images"
         name: "images"
         widget: "list"
@@ -30,11 +30,11 @@ collections:
     folder: "src/characters"
     create: true
     fields:
-      - { label: "Character-img", name: "charimg", widget: "image" }
+      - { label: "Character-img", name: "charimg", widget: "image" , required: false }
       - { label: "Character name", name: "charname", widget: "string", required: false }
       - { label: "Greeting", name: "greeting", widget: "string", required: false }
-      - { label: "Cardtitle", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Cardtitle", name: "title", widget: "string" , required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false  }
       - label: "images"
         name: "images"
         widget: "list"
