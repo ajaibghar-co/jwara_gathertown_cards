@@ -2,7 +2,7 @@
 charname: Jvarasura
 greeting: Namaskara! I am the demon Jvarasura or the Fever Demon! Bringer of
   Fever and Illness!
-title: Testing Card Title
+title: Jvarasura
 images:
   - img: /img/plaque-edict.png
   - img: /img/priest2.png
