@@ -1,0 +1,4 @@
+---
+title: Sanitation Workers sitting together
+---
+The maid in your house, the municipal sweeper on the street, the man cleaning the manhole that you drive past on the street, the manual cleaners who clean after open defecation on streets before the city even wakes up, any of them can be manual scavengers without the proper safety equipment, tools, training, pay and protection. Now that employing manual scavengers to clean in dangerous working conditions has been outlawed, contractors and employers can be held accountable for lack of safety equipment, workers' benefits, etc. Unfortunately, since these communities are socially and economically marginalised, forced to do this work informally under threat of violence, it is so difficult to help them unionise or rehabilitate.
