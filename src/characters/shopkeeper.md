@@ -4,6 +4,8 @@ charname: Shopkeeper
 greeting: Hello! I can tell you more about the temple!
 title: Shopkeeper
 images:
+  - img: /img/basket_easter_1.png
+  - img: /img/kempegowwdatowerrock-transparent.png
   - img: /img/old-lady.png
   - img: /img/nurse.png
 ---
