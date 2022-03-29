@@ -1,4 +1,5 @@
 ---
+charimg: /img/placeholder-jvara.png
 charname: Jvarasura
 greeting: Namaskara! I am the demon Jvarasura or the Fever Demon! Bringer of
   Fever and Illness!
