@@ -2,7 +2,7 @@
 charimg: /img/priest2.png
 charname: Priest
 greeting: Welcome! You seem new here.
-title: priest
+title: Priest
 images:
   - img: /img/templeofferings.png
   - img: /img/shopkeeper.png
