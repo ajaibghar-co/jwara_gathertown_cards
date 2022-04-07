@@ -9,4 +9,4 @@ images:
   - img: /img/old-lady.png
   - img: /img/nurse.png
 ---
-My family has been selling flowers and offerings to worshippers who come to the temple for generations. This is our patron temple, it is part of the roots of the city for us and we help maintain it.The government has given us grants over the years, even now while the British have been here. My grandmother would know the history better, you can go meet her just down the road.
+My family has been selling flowers and offerings to worshippers who come to the temple for generations. This is our patron temple, it is part of the roots of the city for us and we help maintain it. The government has given us grants over the years, even now while the British have been here. My grandmother would know the history better, you can go meet her just down the road.
