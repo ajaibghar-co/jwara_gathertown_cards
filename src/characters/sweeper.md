@@ -5,7 +5,7 @@ greeting: Namaskara, my husband and I are sweepers for the British.
 title: Sweeper
 images:
   - img: /img/mysoredeewan.png
-  - img: /img/basvangudi-layout.jpg
+  - img: /img/basavanagudi-board.png
   - img: /img/cryinglady.png
   - img: /img/narasimham.png
 ---
