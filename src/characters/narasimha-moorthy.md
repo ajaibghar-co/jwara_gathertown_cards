@@ -4,7 +4,7 @@ charname: Narasimha Moorthy
 greeting: Namaskara! I am conducting an investigation on outbreaks in the area
 title: Narasimha Moorthy
 images:
-  - img: /img/placeholder-conservancy.png
+  - img: /img/conservancy.png
   - img: /img/municipalsweeper.png
   - img: /img/labouradvocate.png
 ---
