@@ -13,11 +13,11 @@ layout: layouts/base.njk
             <div class="absolute w-0 h-0 border-t-[13px] border-t-transparent border-b-transparent border-b-[13px] border-r-[26px] border-r-white -left-6 top-12 translate-y-[-50%]"></div>
         </div>
 
-        <div class="bg-white rounded-md p-2 mt-4">     
-            <p class="font-body italic font-thin px-4">Quest Finder</p>
+        <div class="bg-white rounded-md py-4 px-2 mt-4">     
+            <p class="font-body italic font-thin px-4 mb-2">Quest Finder</p>
                         <div class="flex flex-row">
                 {% for q in images %}
-                            <img class="w-20 object-cover px-6" src={{q.img}}>	
+                            <img class="w-20 object-contain px-6" src={{q.img}}>	
                             {# <p class="w-64 text-sm" >{{thumb.caption}}</p> #}
                 {% endfor %}	
                         </div>

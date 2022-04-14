@@ -10,7 +10,7 @@ layout: layouts/base.njk
         {% for thumb in images %}
                 <div class="flex flex-col md:w-64">
                         <img class="md:h-fit object-cover mx-2" src={{thumb.img}}>	
-                        <p class="text-sm m-2" >{{thumb.caption}}</p>
+                        <p class="text-xs text-gray-600 italic m-2" >{{thumb.caption}}</p>
                 </div>
         {% endfor %}	
         </div>
