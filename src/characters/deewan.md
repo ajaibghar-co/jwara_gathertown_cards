@@ -4,7 +4,7 @@ charname: Deewan
 greeting: I'm glad this brilliant town planning is finally receiving attention.
 title: Deewan
 images:
-  - img: /img/basvangudi-layout.jpg
+  - img: /img/basavanagudi-board.png
   - img: /img/cryinglady.png
   - img: /img/narasimham.png
 ---
