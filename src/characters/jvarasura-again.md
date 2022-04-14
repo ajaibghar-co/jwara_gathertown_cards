@@ -4,7 +4,7 @@ charname: Jvarasura
 greeting: TBD
 title: Jvarasura Again
 images:
-  - img: ""
+  - img: /img/cleaningmanholes.png
   - img: ""
 ---
 TBD
