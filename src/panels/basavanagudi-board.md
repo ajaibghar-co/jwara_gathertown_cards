@@ -1,5 +1,5 @@
 ---
-title: Basavanagudi Board
+title: Basavanagudi Plan
 images:
   - img: /img/basavangudi-outline.gif
     caption: grid
