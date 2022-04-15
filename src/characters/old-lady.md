@@ -1,8 +1,8 @@
 ---
 charimg: /img/old-lady.png
-charname: Old Lady
+charname: Grandmother
 greeting: It seems my grandson sent you to hear my stories about old Bengaluru.
-title: Old Lady
+title: Grandmother
 images:
   - img: /img/nurse.png
   - img: /img/apothecary-hospital.png
