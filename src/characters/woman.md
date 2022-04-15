@@ -1,8 +1,8 @@
 ---
 charimg: /img/cryinglady.png
-charname: Woman
+charname: Mother
 greeting: Bring the cart fast! My child needs a hospital!
-title: Woman
+title: Mother
 images:
   - img: /img/narasimham.png
   - img: /img/conservancy.png
