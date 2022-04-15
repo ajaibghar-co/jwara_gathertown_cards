@@ -1,8 +1,8 @@
 ---
 charimg: /img/sweeper-woman.png
-charname: Sweeper
+charname: Chinnamma
 greeting: Namaskara, my husband and I are sweepers for the British.
-title: Sweeper
+title: Chinnamma
 images:
   - img: /img/mysoredeewan.png
   - img: /img/basavanagudi-board.png
