@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="flex p-2 mt-2 md:mx-10 md:mt-10">
+<div class="flex p-2 mt-2 md:mx-10 md:mt-10" id="character">
     <div class="char-block m-2">
         <img class="w-56" src={{charimg}}>
         <p class="text-sm text-center">{{charname}}</p>
@@ -14,10 +14,10 @@ layout: layouts/base.njk
         </div>
 
         <div class="bg-white rounded-md py-4 px-2 mt-4">     
-            <p class="font-body italic font-thin px-4 mb-2">Quest Finder</p>
+            <p class="font-body italic font-thin px-4 mb-2">Look out for</p>
                         <div class="flex flex-row">
                 {% for q in images %}
-                            <img class="w-20 object-contain px-6" src={{q.img}}>	
+                            <img class="w-20 object-contain px-6 quesimg" src={{q.img}}>	
                             {# <p class="w-64 text-sm" >{{thumb.caption}}</p> #}
                 {% endfor %}	
                         </div>

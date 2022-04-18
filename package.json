@@ -33,6 +33,7 @@
     "tailwindcss": "^3.0.7"
   },
   "dependencies": {
+    "bindery": "^2.3.6",
     "netlify-cms-app": "^2.15.69"
   }
 }

@@ -1,5 +1,6 @@
 const htmlmin = require('html-minifier')
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const EsBuild = require('esbuild');
 
 module.exports = function(eleventyConfig) {
   /**
@@ -15,6 +16,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/img')
   eleventyConfig.addPassthroughCopy('src/admin')
 
+  eleventyConfig.on('afterBuild', () => {
+    EsBuild.buildSync({
+      entryPoints: ["./assets/js/scripts.js"],
+      bundle: true,
+      outfile: "_site/js/scripts.js",
+    });
+  })
   /**
    * HTML Minifier for production builds
    */
@@ -34,6 +42,7 @@ module.exports = function(eleventyConfig) {
 
     return content
   })
+
 
   return {
     dir: {

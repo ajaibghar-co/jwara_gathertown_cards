@@ -1,0 +1,13 @@
+---
+permalink: card_json/characters.json
+---
+[
+  {% for post in collections.characters  %}
+    {% set data = post.data %}
+    {
+      "img": "{{ data.charimg }}",
+      "charname": "{{ data.charname }}",
+      "greet": "{{ data.greeting }}"
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]

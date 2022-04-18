@@ -1,0 +1,21 @@
+---
+permalink: card_json/panels.json
+---
+[
+  {% for post in collections.panels  %}
+    {% set data = post.data %}
+    {
+      "title": "{{ data.title }}",
+      "img" :[ {% for thumb in data.images %} 
+        "{{thumb.img}}" 
+        {{ '' if loop.last else ',' }}
+     {% endfor  %}
+       ],
+    "caption" :[ {% for caption in data.images %} 
+        "{{thumb.caption}}" 
+        {{ '' if loop.last else ',' }}
+     {% endfor  %}
+       ]
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]
