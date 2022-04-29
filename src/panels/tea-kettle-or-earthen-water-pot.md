@@ -1,5 +1,5 @@
 ---
-title: Boiling water for better health
+title: Boiling water for Better Health
 images:
   - img: /img/2.3.2COb Human _Water Pipe_ Bheestie.png
     caption: Beesti
