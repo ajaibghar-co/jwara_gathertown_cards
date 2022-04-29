@@ -1,5 +1,5 @@
 ---
-title: Typhoid fever, a bacterial infection
+title: Typhoid Fever Bacteria
 images:
   - img: /img/typhoid-bacteria-2.png
 ---
