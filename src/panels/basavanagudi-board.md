@@ -1,5 +1,5 @@
 ---
-title: Suburban Basavanagudi Extension
+title: Basavangudi Extension
 images:
   - img: /img/basavangudi-outline.gif
     caption: Plan of Basavanagudi Extension 1894
