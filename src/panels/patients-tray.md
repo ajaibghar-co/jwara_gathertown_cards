@@ -1,6 +1,6 @@
 ---
 title: Prescribed Treatment in the Cantonment
 images:
-  - img: /img/typhoid-bacteria-2.png
+  - img: /img/maj-gen-bhatia-museum.jpg
 ---
 Patients would often be admitted with dire symptoms, and though detailed notes were kept, tests were hardly done. Patients were given sets of treatments and adjustments were made based on their reactions. Basic nourishment such as Beef Tea, Chicken Soup, with a tipple of Wine or Brandy were provided. Ether and Soporifics were prescribed as pain relieving anaesthetics, Aloe Vera based laxatives, Diaphoretics, Emulgent Mercury and Quinine to purge the body of all unwanted substances. Most of these treatments, though lifesaving for Malaria patients, were found to do more harm than good to the Typhoid patients, but were instrumental in developing future treatments.
