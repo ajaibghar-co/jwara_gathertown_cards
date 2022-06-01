@@ -1,6 +1,7 @@
 ---
-title: Prescribed Treatment in the Cantonment
+title: Treating Fevers in the Cantonment in the 19th Century
 images:
-  - img: /img/maj-gen-bhatia-museum.jpg
+  - img: /img/11.jpg
+    caption: Medicine Chest, 19th Century, England
 ---
-Patients would often be admitted with dire symptoms, and though detailed notes were kept, tests were hardly done. Patients were given sets of treatments and adjustments were made based on their reactions. Basic nourishment such as Beef Tea, Chicken Soup, with a tipple of Wine or Brandy were provided. Ether and Soporifics were prescribed as pain relieving anaesthetics, Aloe Vera based laxatives, Diaphoretics, Emulgent Mercury and Quinine to purge the body of all unwanted substances. Most of these treatments, though lifesaving for Malaria patients, were found to do more harm than good to the Typhoid patients, but were instrumental in developing future treatments.
+Since neither typhoid nor antibiotics had not been discovered yet, patients were given all kinds of treatments. The wonder medicine most effective for Malaria treatment was given instead, Quinine! Patients were also prescribed laxatives, sweat-inducing medicines, and even mercury to clear out the body, while nourishing them with Beef Tea, Chicken Soup and sips of Wine or Brandy. For typhoid patients, these treatments did more harm than good, with many dying in the hospitals itself!
