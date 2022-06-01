@@ -1,6 +1,5 @@
 ---
-title: The Typhoid Story
+title: Antibiotics and Antibiotic Resistance
 images:
-  - img: /img/typhoid-bacteria-2.png
+  - img: /img/6-an-electron-microscope-image-of-muli-drug-resistant-typhoid.jpg
 ---
-Through history, typhoid has wiped out 1000s of lives in early settlements, mediaeval towns and military camps overseas. Though the bacteria was discovered in the 1880s, the first vaccine was produced and distributed in 1896.
