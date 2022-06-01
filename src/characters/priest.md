@@ -9,4 +9,4 @@ images:
   - img: /img/basket_easter_1.png
   - img: /img/kempegowwdatowerrock-transparent.png
 ---
-This temple is for Annamma Devi, our fever goddess. Most of the families who come here to worship have either recently suffered from some kind of fever illness, or are praying for the protection of a loved one, usually children.  Annamma temple is more than just a shelter for the goddess. She is considered as a guardian goddess of Bengaluru. Our belief is that fever is a punishment from a goddess. So after recovering from illness, the goddess has to be appeased.
+This temple is devoted to Annamma Devi, our fever goddess. Most families coming here to worship have either recently suffered from a fever related illness or are praying for the protection of a loved one, usually their children. Annamma temple is more than just a shelter for the goddess, she is considered to be a guardian of Bengaluru. Our belief is that fever is a punishment from the goddess and the goddess must be appeased through offerings and worship after recovery.
