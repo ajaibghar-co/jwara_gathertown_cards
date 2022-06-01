@@ -1,6 +1,7 @@
 ---
-title: Hand Pump
+title: "The Moorthy Typhoid Report: Hand Pumps"
 images:
-  - img: /img/2.2.b-pete-main-street.jpeg
+  - img: /img/14.jpg
+    caption: An Affordable and Commonly Used Water Hand Pump in India
 ---
-tbd
+Moorthy found that in the 1930s, getting underground water filtered was difficult, even in the planned hygienic suburbs, so hand pumps had been provided to pump water from mains. Unfortunately, many of these pump lines were unhygienic too. The cantonment water had been chlorinated to treat the water, but the city water here had not been treated because municipality claimed they could not afford to.
