@@ -1,6 +1,7 @@
 ---
-title: The Conservancy Lanes
+title: "The Moorthy Typhoid Report: The Conservancy Lanes"
 images:
-  - img: /img/lane.jpg
+  - img: /img/15.jpg
+    caption: Manual Scavenger Working in a Conservancy Lanes
 ---
-During the 1930s, health officers often complained that the conservancy lanes were being used for open defecation by the public and by those who could not afford sanitation services. Suitable underground sewage systems were proposed since the scavengers could not keep up with the growing number of houses to clean.
+Moorthy observed that each street had built in drains and conservancy lanes behind each row of houses for scavengers to manually collect human waste and cart it away ‘conservatively’. During the 1930s, health officers often complained that not only were the scavengers overwhelmed with the growing number of houses to clean, but the conservancy lanes were being used for open defecation by homeowners who could not afford sanitation services.
