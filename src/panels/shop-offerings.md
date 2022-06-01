@@ -1,6 +1,6 @@
 ---
-title: Offerings to the Goddesses
+title: Offerings For The Goddess
 images:
-  - img: /img/untitled-design-1-.jpg
+  - img: /img/maj-gen-bhatia-museum.jpg
 ---
-Everyday a customary offering of food usually in the form of curd, milk, turmeric, curd rice, salt, neem leaves that are often considered as cooling substances to abate the extreme heat of the fever goddesses is made as a way of thanking the goddess for conception, birth or cure of the child from various illnesse
+Worshippers have created large markets outside temples, selling customary offerings of cooling foods such as curd, milk, turmeric, curd rice, salt, and neem leaves to abate the heat of the fever goddesses. Offerings are also a way of thanking the goddess for conception, birth or the recovery of a child from illnesses.
