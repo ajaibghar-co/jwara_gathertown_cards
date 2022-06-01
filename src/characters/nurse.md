@@ -5,7 +5,6 @@ greeting: I suppose you've heard about these awful outbreaks of fever going on r
 title: Nurse
 images:
   - img: /img/apothecary-hospital.png
-  - img: /img/bottle.png
   - img: /img/teaset_2_left.png
   - img: /img/sweeper-woman.png
 ---
