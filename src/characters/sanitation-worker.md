@@ -7,4 +7,4 @@ images:
   - img: /img/labouradvocate.png
   - img: /img/cleaningmanholes.png
 ---
-Considering the caste prejudice we face, very few of us got to go to school, we manage with what we have. We all work cleaning floors and toilets, in different places, for very little money. But even though our families have been doing this work for generations, we try to protect our children, give them better lives. Even if that means hiding our caste and work from people. There's an advocate who's come to discuss our problems, you can go meet him too.
+We clean floors and toilets in different places, but for very little money. Even though our families have been doing this work for generations, we try to protect our children, and hope to give them better lives. With the prejudice we face for being lower caste, very few of us got to go to school. So we have managed with what we have, but we protect our children. We make sure they get an education, even if we have to hide our caste and the work we do. Things can’t go on like this and we are beginning to organise. There is an advocate who has been visiting us to help, you can go meet him too.
