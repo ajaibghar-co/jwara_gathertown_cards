@@ -1,6 +1,7 @@
 ---
-title: Salmonella in your system
+title: Salmonella in Your System
 images:
-  - img: /img/img5.jpg
+  - img: /img/2.jpg
+    caption: Salmonella Bacteria Invading an Immunity Cell, 2011
 ---
-Once in the body, the bacteria travels through the intestines and enters the bloodstream. From there it spreads all over the body, reproducing more bacteria as it goes, which overwhelms the body. The main symptoms of typhoid are abdominal pain, continuous fever, diarrhoea, loss of appetite, headaches and fatigue.
+Once in the body, typhoid bacteria travel through the intestine and enter the bloodstream. From there, they spread all over the body, reproducing more bacteria as it goes, which overwhelms the body’s immunity. The main symptoms of typhoid are stomach pain, continuous fever, diarrhoea, loss of appetite, headaches and fatigue. If left untreated, up to 1 in 5 typhoid patients may die.
