@@ -1,5 +1,5 @@
 ---
-title: Basavangudi Extension
+title: The New Basavanagudi Extension
 images:
   - img: /img/basvangudi-layout.jpg
     caption: Plan of Basavanagudi Extension 1849
