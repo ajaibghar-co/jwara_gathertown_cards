@@ -1,7 +1,6 @@
 ---
-title: History of Typhoid
+title: "The Moorthy Typhoid Report: Hand Pumps 1938"
 images:
-  - img: /img/6.jpg
-    caption: An Electron Microscope Image of Muli-Drug Resistant Typhoid
+  - img: /img/14.jpg
 ---
-Typhoid is an ancient companion of humanity. Over the centuries, it has claimed an untold number of lives around the world. The Typhoid bacteria (S. Typhi) was identified during the 1880s and effective vaccines and antimicrobials were developed to prevent and treat it from 1896 and 1948. However, the most important way of typhoid prevention remains the provision of clean water, safe food, and effective sewage disposal.
+Moorthy found that in the 1930s, getting underground water filtered was difficult, even in the planned hygienic suburbs, so hand pumps had been provided to pump water from mains. Unfortunately, many of these pump lines were unhygienic too. The cantonment water had been chlorinated to treat the water, but the city water here had not been treated, but the municipality claimed they could not afford to.
