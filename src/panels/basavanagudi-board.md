@@ -1,10 +1,7 @@
 ---
 title: Basavangudi Extension
 images:
-  - img: /img/basavangudi-outline.gif
-    caption: Plan of Basavanagudi Extension 1894
-  - img: /img/screenshot-2022-05-19-at-1.46.22.png
+  - img: /img/basvangudi-layout.jpg
+    caption: Plan of Basavanagudi Extension 1849
 ---
-The new extensions of Bangalore were built with great detail to cleanliness and aesthetics. The symmetrical streets had conservancy lanes attached to the back of the houses for scavengers and carts to be brought to manually remove human waste ‘conservatively’. 
-
-To know more: slbhatiamuseum@gmail.com.
+As a result of a plague outbreak between 1898-1899, new residential extensions of *Basavanagudi*, *Chamrajpete* and *Malleshwaram* were planned away from the Pete city area. Planned by a British municipal engineer and executed by the Dewan (Minister) of Princely Mysore, these new extensions were called the ‘model hygienic suburbs’, with special attention to cleanliness and aesthetics. Houses were allotted by religion and caste, with preference given to upper caste Hindu government employees.
