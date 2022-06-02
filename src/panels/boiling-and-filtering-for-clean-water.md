@@ -1,5 +1,5 @@
 ---
-title: Boiling and Filtering For Clean Water
+title: In Quest of Clean Water
 images:
   - img: /img/12.png
     caption: Florence Nightingale's Illustration of a Bheestie
