@@ -1,6 +1,6 @@
 ---
 charimg: /img/jvara2.png
-charname: Jwara Again
+charname: Jwarasura Again
 title: Jwara Again
 images:
   - img: /img/cleaningmanholes.png
