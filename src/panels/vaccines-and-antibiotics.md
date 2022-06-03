@@ -1,5 +1,5 @@
 ---
-title: Vaccines and Antibiotics
+title: History of Typhoid
 images:
   - caption: An Electron Microscope Image of Muli-Drug Resistant Typhoid
     img: /img/6.jpg
