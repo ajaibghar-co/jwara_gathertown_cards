@@ -1,8 +1,6 @@
 ---
 title: Vaccines and Antibiotics
 images:
-  - img: /img/5.jpg
-    caption: An Electron Micrograph of Salmonella Typhimurium
   - img: /img/6.jpg
     caption: An Electron Micrograph of Multi-Drug Resistant Salmonella Typhi
 ---
