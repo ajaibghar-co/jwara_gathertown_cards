@@ -1,8 +1,6 @@
 ---
 title: History of Typhoid
 images:
-  - caption: An Electron Microscope Image of Muli-Drug Resistant Typhoid
-    img: /img/6.jpg
   - img: /img/51316924335_f907d448ef_b.jpg
     caption: An electron micrograph of Salmonella Typhirium
 ---
