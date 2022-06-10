@@ -1,6 +1,6 @@
 ---
 charimg: /img/mysoredeewan.png
-charname: Deewan
+charname: Diwan
 greeting: I'm glad this brilliant town planning is finally receiving attention.
 title: Deewan
 images:
