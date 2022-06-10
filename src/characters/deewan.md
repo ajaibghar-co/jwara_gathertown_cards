@@ -2,7 +2,7 @@
 charimg: /img/mysoredeewan.png
 charname: Diwan
 greeting: I'm glad this brilliant town planning is finally receiving attention.
-title: Deewan
+title: Diwan
 images:
   - img: /img/cryinglady.png
   - img: /img/narasimham.png
