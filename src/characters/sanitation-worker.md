@@ -1,7 +1,7 @@
 ---
 charimg: /img/municipalsweeper.png
 charname: Sanitation Worker
-greeting: Hello! Yes, I am a sanitation worker. Welcome to our Basti (slum settlement)
+greeting: Hello! Welcome to our neighbourhood!
 title: Sanitation Worker
 images:
   - img: /img/labouradvocate.png
